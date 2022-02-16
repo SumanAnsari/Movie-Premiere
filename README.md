@@ -20,5 +20,5 @@ Reflection/Evaluation: I found this task quite difficult as my undertstanding co
 lessons, read things online and ask my friends to figure out the Javascript and CSS a lot of the times because the positions especially confused me a lot. It is 
 specifically the syntax difference in each of them that increases my confusion. Because of how complicated it was looking to me, I ended up only following parts
 of my initial wireframe and I think thats fine because I had to adapt to my skills. I still went for the minimalistic design I wanted with clear communication and
-a good color palette that really tell the story of the film and also how I generally express my design work. I recognize that this work will not be perfect;however, 
-I do think the overall user experience could be further enhanced and the concept behind why the website exists could be made clearer. 
+a good color palette that really tells the story of the film and also expresses my own design aesthetic. I recognize that this work will not be perfect; however, 
+I do think the overall user experience could be further enhanced and the concept behind why the website exists could be made clearer if I had had more time.
