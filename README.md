@@ -5,10 +5,8 @@ Project Name: 'Zoom Over' Premiere
 
 Description: The concept of our film was about how the pandemic has effected our relationships with friends and family by not allowing us to see each other more 
 often. Thus, the movie itself depicts two friends trying to get back that connection by meeting over Zoom after a while. The film's motivation was inspired
-by our own lives for the past two years and the importance of friendship and staying during these times. 
-To communicate this idea, I wanted to focus on female friendship and (stereotypically) used light shades of pink, white and red throughout the website. The 
-background photo was multiple hearts, again pushing the idea of love and friendship immediately to the user as they enter the website. The gradient color in the 
-opening page allows the user to realize that the page moves downwards even before they notice the scroll button at the bottom. The floating text that appears
+by our own lives for the past two years and the importance of friendship and staying connected during these times. 
+To communicate this idea, I wanted to focus on female friendship and (stereotypically) used light shades of pink, white and red throughout the website to convey this. The background photo was multiple hearts, again pushing the idea of love and friendship immediately to the user as they enter the website. The gradient color in the opening page allows the user to realize that the page moves downwards even before they notice the scroll button at the bottom. The floating text that appears
 when the user first comes onto the page is a cute tagline for the film but also just a quote that may be memorable for the user.
 After scrolling down, either with the mouse or clicking on the button at the bottom, the users are presented with the embedded video that displays the film itself. 
 The full page also allows for the synopsis to show right under the film so the reader can quickly skim over the text while playing the video or even before/after
