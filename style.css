@@ -1,0 +1,181 @@
+body{
+	display: block;
+	font-family: 'Montserrat', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+.firstpage {
+	text-align: center;
+	color: white;
+}
+
+
+.firstpage {
+	background-image: url('hearts.png');
+	height: 670px;
+	width: 100%;
+}
+
+.firstpage h1{
+	font-weight: 70;
+	font-size: 80px;
+	margin: 0;
+	padding-top: 3%;
+	text-shadow: 0 0 0.15em red;
+}
+
+.firstpage h2{
+	font-weight: 120;
+	font-size: 60px;
+	margin: 0;
+}
+
+/*Animation used to smooth transition for the motivating text to appear on the landing page*/
+
+@keyframes fadein {
+	from {opacity: 0;}
+	to{opacity: 1;}
+
+}
+
+.motivating-text {
+	margin-top: 15%;
+  color: pink;
+	text-align: center;
+	font-family: 'Montserrat',sans-serif;
+	font-size: 30px;
+	animation-name: fadein;
+	animation-duration: 6s;
+	text-shadow: 0 0 0.15em red;
+}
+
+.secondpage h2{
+	position: relative;
+	text-align: center;
+	font-weight: 400;
+  padding-bottom: 5%;
+}
+
+.darken{
+	background-image:
+    linear-gradient(
+      rgba(255, 182, 193, 255),
+      rgba(0, 0, 0, 0)
+    ),
+    url('hearts.png');
+}
+
+.strip{
+	background-color: lightpink;
+	width:100%;
+	height:60px;
+}
+
+/*to position the button in the middle and style it*/
+
+button{
+	background-image: url("scroll2.png");
+	background-size: 40px;
+	background-color: lightpink;
+	height: 40px;
+	width: 40px;
+	margin-left: 50%;
+	margin-top: 0.8%;
+	border: none;
+	cursor: pointer;
+}
+
+/*Having a glow effect on the button while hovering*/
+
+button:hover {
+	cursor: pointer;
+	background-image:url("scroll2.png");
+	height: 40px;
+	width: 40px;
+
+}
+.video{
+	width: 50%;
+	height: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4%;
+	border: solid lightpink 10px;
+
+}
+
+.thirdpage{
+	text-align: center;
+	padding-bottom: 8%;
+
+}
+
+.pics{
+	margin-left: 1%;
+	border: 8px solid lightpink;
+	width: auto;
+	height: 300px;
+}
+
+/*Adding the blur effect if you hover over our team photos*/
+
+.thirdpage img:hover {
+	filter:blur(5px);
+	cursor: pointer;
+	transition: .2s ease;
+}
+
+.headings{
+	margin-left: 2%;
+  color: lightpink;
+}
+
+.lastpage{
+	text-align: center;
+	background-color: lightpink;
+	width: 100%;
+	height: 5%;
+	/* padding-top: 2%; */
+	padding-bottom: 2%;
+
+	color: white;
+	/* padding-bottom: 5%; */
+	/* padding-top: 5%; */
+}
+
+.sponsors{
+	margin:0;
+	/* margin-top: 3%; */
+	background-color: lightpink;
+	color:white;
+	padding-left: 2%;
+	padding-top: 2%;
+
+}
+
+/*Links for Sponsors*/
+.spon{
+	color:white;
+	margin-left: 4%;
+	text-decoration: none;
+}
+
+.spon img{
+  margin: 0;
+	width: 200px;
+	height:200px;
+	border: 4px solid white;
+	border-radius: 100%;
+	margin-bottom: 2%;
+}
+
+.footer{
+	background-color: white;
+	color: lightpink;
+	text-align: right;
+	width: 100%;
+	height: 2%;
+  padding-top: 0.5%;
+	padding-bottom: 0.4%;
+}
